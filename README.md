@@ -6,14 +6,14 @@ I’m a problem solver who lives at the intersection of music and code. I enjoy 
 
 ---
 
-### 🛠️ What I'm Working On
+###  What I'm Working On
 - **Data Reconciliation:** Using Python to find "needles in haystacks" across massive music catalogs.
 - **Automation:** Creating scripts that handle the "boring stuff"—from browser automation to Slack-integrated reporting.
 - **AI Logic:** Exploring how LLMs can solve the "Remix Trap" and other complex metadata headaches.
 
 ---
 
-### 📂 My Projects
+###  My Projects
 **[Codes & Automation Portfolio](https://github.com/furiousgeorgem/Codes-and-Automation-Portfolio)**
 *A collection of tools I've built to handle music data at scale:*
 - **Fuzzy Matching:** A high-speed engine for syncing artist and track rosters.
@@ -22,14 +22,14 @@ I’m a problem solver who lives at the intersection of music and code. I enjoy 
 
 ---
 
-### 🧰 Technical Toolkit
+###  Technical Toolkit
 - **Python:** (Pandas, RapidFuzz, Requests, Multi-threading)
 - **Data:** SQL, Metadata Standards (ISRC/Artist/Title), Catalog Management
 - **Platforms:** OpenAI API, Slack API, Tableau, GitHub
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 - **Email:** [georgesmchenry@gmail.com](mailto:georgesmchenry@gmail.com)
 - **LinkedIn:** [George McHenry](https://www.linkedin.com/in/george-mchenry-159a221b6/)
 
