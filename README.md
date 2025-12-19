@@ -1,36 +1,24 @@
-# Hi, I'm George 👋 
+# Hi, I'm George 👋
 
-### Data Operations | Python Automation | Music Tech Enthusiast
+I’m a data operations specialist and developer who lives for the "lightbulb moment" when a messy dataset finally snaps into place. I spend most of my time at the intersection of music and code, building the logic and pipelines that turn high-volume metadata into something actually useful.
 
-I’m a problem solver who lives at the intersection of music and code. I enjoy taking messy, high-volume datasets and building the "pipes" and logic needed to make them useful. Whether it's automating a tedious manual task or building a custom matching engine, I’m at my best when I’m making data workflows faster and more accurate.
+Whether I’m untangling a massive catalog or automating a task that used to take a team all week, I’m at my best when I’m making workflows faster, cleaner, and more accurate.
 
----
+### 🛠️ What I do
+I specialize in **Data Reconciliation**, using Python to find "needles in haystacks" across massive music catalogs. I'm also big on **Automation**—I enjoy building tools for the "boring stuff," from browser-level scripts to real-time Slack reporting. Recently, I’ve been focused on **AI Logic**, exploring how LLMs can solve the "Remix Trap" and other metadata headaches that standard code can't quite catch.
 
-###  What I'm Working On
-- **Data Reconciliation:** Using Python to find "needles in haystacks" across massive music catalogs.
-- **Automation:** Creating scripts that handle the "boring stuff"—from browser automation to Slack-integrated reporting.
-- **AI Logic:** Exploring how LLMs can solve the "Remix Trap" and other complex metadata headaches.
+### 📂 Featured Work
+My main project is my **[Codes & Automation Portfolio](https://github.com/furiousgeorgem/Codes-and-Automation-Portfolio)**. It’s a collection of tools I’ve built to handle music data at scale, including:
+* **A high-speed Fuzzy Matching engine** for syncing disparate artist and track rosters.
+* **Automated Reporting tools** that provide real-time updates to stakeholders.
+* **Procurement scripts** designed to streamline track research and acquisition.
 
----
+### 🧰 The Toolkit
+I primarily work in **Python** (Pandas, RapidFuzz, Requests, Multi-threading) and **SQL**. I’m comfortable managing metadata standards like ISRC and Artist/Title mapping, and I'm experienced in integrating tools like the **OpenAI API**, **Slack API**, and **Tableau**.
 
-###  My Projects
-**[Codes & Automation Portfolio](https://github.com/furiousgeorgem/Codes-and-Automation-Portfolio)**
-*A collection of tools I've built to handle music data at scale:*
-- **Fuzzy Matching:** A high-speed engine for syncing artist and track rosters.
-- **Automated Reporting:** Real-time delta reports and stakeholder updates.
-- **Procurement Tools:** Streamlining track research and acquisition workflows.
-
----
-
-###  Technical Toolkit
-- **Python:** (Pandas, RapidFuzz, Requests, Multi-threading)
-- **Data:** SQL, Metadata Standards (ISRC/Artist/Title), Catalog Management
-- **Platforms:** OpenAI API, Slack API, Tableau, GitHub
-
----
-
-###  Connect with me
+### 📫 Let's chat
+I’m always down to talk music tech, automation, or data integrity.
 - **Email:** [georgesmchenry@gmail.com](mailto:georgesmchenry@gmail.com)
 - **LinkedIn:** [George McHenry](https://www.linkedin.com/in/george-mchenry-159a221b6/)
 
-*"I believe that good data is the foundation of the music industry—and I build the tools that keep that foundation solid."*
+*"I believe that good data is the foundation of the music industry—I just build the tools that keep that foundation solid."*
