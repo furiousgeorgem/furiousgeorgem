@@ -5,7 +5,7 @@ I’m a data operations specialist and developer who lives for the "lightbulb mo
 Whether I’m untangling a massive catalog or automating a task that used to take a team all week, I’m at my best when I’m making workflows faster, cleaner, and more accurate.
 
 ###  What I do
-I specialize in **Data Reconciliation**, using Python to find "needles in haystacks" across massive music catalogs. I'm also big on **Automation**—I enjoy building tools for the "boring stuff," from browser-level scripts to real-time Slack reporting. Recently, I’ve been focused on **AI Logic**, exploring how LLMs can solve the "Remix Trap" and other metadata headaches that standard code can't quite catch.
+I specialize in **Data Reconciliation** for Pandora Cloudcover, using Python to find "needles in haystacks" across massive music catalogs. I'm also big on **Automation**—I enjoy building tools for the "boring stuff," from browser-level scripts to real-time Slack reporting. Recently, I’ve been focused on **AI Logic**, exploring how LLMs can solve the "Remix Trap" and other metadata headaches that standard code can't quite catch.
 
 ###  Featured Work
 My main project is my **[Codes & Automation Portfolio](https://github.com/furiousgeorgem/Codes-and-Automation-Portfolio)**. It’s a collection of tools I’ve built to handle music data at scale, including:
