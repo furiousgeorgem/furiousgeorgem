@@ -14,7 +14,7 @@ My main project is my **[Codes & Automation Portfolio](https://github.com/furiou
 * **Procurement scripts** designed to streamline track research and acquisition.
 
 ###  The Toolkit
-I primarily work in **Python** (Pandas, RapidFuzz, Requests, Multi-threading) and **SQL**. I’m comfortable managing metadata standards like ISRC and Artist/Title mapping, and I'm experienced in integrating tools like the **OpenAI API**, **Slack API**, and **Tableau**.
+I primarily work in **Python** (Pandas, RapidFuzz, Requests, Multi-threading) and **SQL**. I’m comfortable managing metadata standards like ISRC and Artist/Title mapping, and I'm experienced in integrating tools like the **OpenAI API**, **Slack API**, and **ChartMogul**.
 
 ###  Let's chat
 I’m always down to talk music tech, automation, or data integrity.
