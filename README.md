@@ -1,6 +1,6 @@
 # Hi, I'm George 👋
 
-I'm a data operations specialist and developer who lives for the "lightbulb moment" when a messy dataset finally snaps into place. I spend most of my time at the intersection of music and code, building pipelines that turn high-volume metadata into something actually useful. My goal is always to make workflows faster, cleaner, and more accurate.
+I'm a music data operations specialist and developer who lives for the "lightbulb moment" when a messy dataset finally snaps into place. I spend most of my time at the intersection of music and code, building pipelines that turn high-volume metadata into something actually useful. My goal is always to make workflows faster, cleaner, and more accurate.
 
 ## What I Do
 
