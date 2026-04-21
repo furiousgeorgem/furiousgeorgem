@@ -15,7 +15,7 @@ A collection of production tools I've built to handle music data at scale:
 - **Fuzzy Matching Engine** - High-speed track reconciliation across disparate music catalogs using multi-threaded processing and intelligent candidate blocking
 - **Slack Reporting Tool** - Automated CSV comparison and delta reporting for station curation workflows
 - **Procurement Automation** - Batch search tools that streamline track research and acquisition
-- **API Integration Pipeline** - Two-tier validation system combining Pandora API fuzzy matching with OpenAI-powered quality control for complex metadata edge cases (implementation confidential)
+- **API Integration Pipeline** - Two-tier validation system combining API fuzzy matching with OpenAI-powered quality control for complex metadata edge cases (implementation confidential)
 
 ## Technical Skills
 
